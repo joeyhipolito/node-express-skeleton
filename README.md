@@ -38,4 +38,4 @@ Is this the best? Obviously the answer is no, but right now, this what works for
 Improvements
 ----------
 
-That's what this public repo is all about. Evangelize me, convince me why your patch, or maybe if you have baddass repo that you think is a lot, i mean a lot better than mine, feel free to tell me, and if there are incredibly large flow in mine, tell me. This is how I learn.
+That's what this public repo is all about. Evangelize me, convince me why your patch, or maybe if you have baddass repo that you think is a lot, i mean a lot better than mine, feel free to tell me, and if there are incredibly large flaw in mine, tell me. This is how I learn.
